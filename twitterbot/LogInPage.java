@@ -14,7 +14,7 @@ public class LogInPage implements ActionListener {
     JPasswordField userPasswordField = new JPasswordField();
     JLabel userIDLabel = new JLabel("user ID: ");
     JLabel userPasswordLabel = new JLabel("password: ");
-    JLabel messageLabel = new JLabel("This is a test");
+    JLabel messageLabel = new JLabel("Twitter Replica");
 
     HashMap<String, String> logininfo = new HashMap<>();
     LogInPage(HashMap<String, String> loginInfoOriginal) {
