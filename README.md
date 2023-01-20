@@ -14,5 +14,6 @@ Both versions have:
 
 default username: user
 password: 123
+(you will need to uncomment the scanner part for userinput in twitterbot if you want to write your own username)
 
 time spent: 4h
