@@ -11,3 +11,8 @@ Both versions have:
 - user login
 - user logout
 - change username (only in twitterSQL)
+
+default username: user
+password: 123
+
+time spent: 4h
