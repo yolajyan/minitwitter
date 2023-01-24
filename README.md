@@ -1,5 +1,4 @@
 # minitwitter
-spark application - Backend
 
 I created two versions of the mini twitter projects: 
 1. twitterbot is the one where user need to manually register their username and password into a hasmap before logging into the page.
